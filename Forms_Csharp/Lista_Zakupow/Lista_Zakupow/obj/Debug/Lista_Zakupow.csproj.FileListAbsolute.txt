@@ -1,0 +1,11 @@
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\obj\Debug\Lista_Zakupow.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\obj\Debug\Lista_Zakupow.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\obj\Debug\Lista_Zakupow.Form1.resources
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\obj\Debug\Lista_Zakupow.Properties.Resources.resources
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\obj\Debug\Lista_Zakupow.csproj.GenerateResource.cache
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\obj\Debug\Lista_Zakupow.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\bin\Debug\Lista_Zakupow.exe.config
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\bin\Debug\Lista_Zakupow.exe
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\bin\Debug\Lista_Zakupow.pdb
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\obj\Debug\Lista_Zakupow.exe
+C:\Users\Adrian\source\repos\okienkowe_apps\Lista_Zakupow\Lista_Zakupow\obj\Debug\Lista_Zakupow.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d60c1a6d-7339-44b9-95f4-39057dbea792": {
+      "ProjectGuid": "d60c1a6d-7339-44b9-95f4-39057dbea792",
+      "DisplayName": "Lista_Zakupow",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
