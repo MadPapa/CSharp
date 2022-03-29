@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\kod_haminga\kod_haminga\bin\Debug\kod_haminga.exe.config
+C:\Users\Adrian\source\repos\kod_haminga\kod_haminga\bin\Debug\kod_haminga.exe
+C:\Users\Adrian\source\repos\kod_haminga\kod_haminga\bin\Debug\kod_haminga.pdb
+C:\Users\Adrian\source\repos\kod_haminga\kod_haminga\obj\Debug\kod_haminga.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\kod_haminga\kod_haminga\obj\Debug\kod_haminga.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\kod_haminga\kod_haminga\obj\Debug\kod_haminga.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\kod_haminga\kod_haminga\obj\Debug\kod_haminga.exe
+C:\Users\Adrian\source\repos\kod_haminga\kod_haminga\obj\Debug\kod_haminga.pdb

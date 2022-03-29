@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kod_haminga", "kod_haminga\kod_haminga.csproj", "{39315B42-61B1-4FED-A7E2-E769BEDAA01F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39315B42-61B1-4FED-A7E2-E769BEDAA01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39315B42-61B1-4FED-A7E2-E769BEDAA01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39315B42-61B1-4FED-A7E2-E769BEDAA01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39315B42-61B1-4FED-A7E2-E769BEDAA01F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {204EB5DB-AB06-4AC7-A724-563BD003D775}
+	EndGlobalSection
+EndGlobal
