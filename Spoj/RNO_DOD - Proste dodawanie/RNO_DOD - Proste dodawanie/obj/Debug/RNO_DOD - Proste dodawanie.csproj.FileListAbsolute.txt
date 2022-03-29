@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Spoj\RNO_DOD - Proste dodawanie\RNO_DOD - Proste dodawanie\bin\Debug\RNO_DOD - Proste dodawanie.exe.config
+C:\Users\Adrian\source\repos\Spoj\RNO_DOD - Proste dodawanie\RNO_DOD - Proste dodawanie\bin\Debug\RNO_DOD - Proste dodawanie.exe
+C:\Users\Adrian\source\repos\Spoj\RNO_DOD - Proste dodawanie\RNO_DOD - Proste dodawanie\bin\Debug\RNO_DOD - Proste dodawanie.pdb
+C:\Users\Adrian\source\repos\Spoj\RNO_DOD - Proste dodawanie\RNO_DOD - Proste dodawanie\obj\Debug\RNO_DOD - Proste dodawanie.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Spoj\RNO_DOD - Proste dodawanie\RNO_DOD - Proste dodawanie\obj\Debug\RNO_DOD - Proste dodawanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Spoj\RNO_DOD - Proste dodawanie\RNO_DOD - Proste dodawanie\obj\Debug\RNO_DOD - Proste dodawanie.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Spoj\RNO_DOD - Proste dodawanie\RNO_DOD - Proste dodawanie\obj\Debug\RNO_DOD - Proste dodawanie.exe
+C:\Users\Adrian\source\repos\Spoj\RNO_DOD - Proste dodawanie\RNO_DOD - Proste dodawanie\obj\Debug\RNO_DOD - Proste dodawanie.pdb

@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Spoj\PP0501A - NWD\PP0501A - NWD\bin\Debug\PP0501A - NWD.exe.config
+C:\Users\Adrian\source\repos\Spoj\PP0501A - NWD\PP0501A - NWD\bin\Debug\PP0501A - NWD.exe
+C:\Users\Adrian\source\repos\Spoj\PP0501A - NWD\PP0501A - NWD\bin\Debug\PP0501A - NWD.pdb
+C:\Users\Adrian\source\repos\Spoj\PP0501A - NWD\PP0501A - NWD\obj\Debug\PP0501A - NWD.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Spoj\PP0501A - NWD\PP0501A - NWD\obj\Debug\PP0501A - NWD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Spoj\PP0501A - NWD\PP0501A - NWD\obj\Debug\PP0501A - NWD.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Spoj\PP0501A - NWD\PP0501A - NWD\obj\Debug\PP0501A - NWD.exe
+C:\Users\Adrian\source\repos\Spoj\PP0501A - NWD\PP0501A - NWD\obj\Debug\PP0501A - NWD.pdb

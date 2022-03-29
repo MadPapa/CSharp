@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Spoj\PRIME_T - Liczby Pierwsze\PRIME_T - Liczby Pierwsze\bin\Debug\PRIME_T - Liczby Pierwsze.exe.config
+C:\Users\Adrian\source\repos\Spoj\PRIME_T - Liczby Pierwsze\PRIME_T - Liczby Pierwsze\bin\Debug\PRIME_T - Liczby Pierwsze.exe
+C:\Users\Adrian\source\repos\Spoj\PRIME_T - Liczby Pierwsze\PRIME_T - Liczby Pierwsze\bin\Debug\PRIME_T - Liczby Pierwsze.pdb
+C:\Users\Adrian\source\repos\Spoj\PRIME_T - Liczby Pierwsze\PRIME_T - Liczby Pierwsze\obj\Debug\PRIME_T - Liczby Pierwsze.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Spoj\PRIME_T - Liczby Pierwsze\PRIME_T - Liczby Pierwsze\obj\Debug\PRIME_T - Liczby Pierwsze.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Spoj\PRIME_T - Liczby Pierwsze\PRIME_T - Liczby Pierwsze\obj\Debug\PRIME_T - Liczby Pierwsze.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Spoj\PRIME_T - Liczby Pierwsze\PRIME_T - Liczby Pierwsze\obj\Debug\PRIME_T - Liczby Pierwsze.exe
+C:\Users\Adrian\source\repos\Spoj\PRIME_T - Liczby Pierwsze\PRIME_T - Liczby Pierwsze\obj\Debug\PRIME_T - Liczby Pierwsze.pdb

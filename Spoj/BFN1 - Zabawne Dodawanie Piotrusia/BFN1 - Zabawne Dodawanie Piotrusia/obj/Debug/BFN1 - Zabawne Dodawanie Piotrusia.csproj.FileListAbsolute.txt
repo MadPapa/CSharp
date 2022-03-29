@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Spoj\BFN1 - Zabawne Dodawanie Piotrusia\BFN1 - Zabawne Dodawanie Piotrusia\bin\Debug\BFN1 - Zabawne Dodawanie Piotrusia.exe.config
+C:\Users\Adrian\source\repos\Spoj\BFN1 - Zabawne Dodawanie Piotrusia\BFN1 - Zabawne Dodawanie Piotrusia\bin\Debug\BFN1 - Zabawne Dodawanie Piotrusia.exe
+C:\Users\Adrian\source\repos\Spoj\BFN1 - Zabawne Dodawanie Piotrusia\BFN1 - Zabawne Dodawanie Piotrusia\bin\Debug\BFN1 - Zabawne Dodawanie Piotrusia.pdb
+C:\Users\Adrian\source\repos\Spoj\BFN1 - Zabawne Dodawanie Piotrusia\BFN1 - Zabawne Dodawanie Piotrusia\obj\Debug\BFN1 - Zabawne Dodawanie Piotrusia.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Spoj\BFN1 - Zabawne Dodawanie Piotrusia\BFN1 - Zabawne Dodawanie Piotrusia\obj\Debug\BFN1 - Zabawne Dodawanie Piotrusia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Spoj\BFN1 - Zabawne Dodawanie Piotrusia\BFN1 - Zabawne Dodawanie Piotrusia\obj\Debug\BFN1 - Zabawne Dodawanie Piotrusia.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Spoj\BFN1 - Zabawne Dodawanie Piotrusia\BFN1 - Zabawne Dodawanie Piotrusia\obj\Debug\BFN1 - Zabawne Dodawanie Piotrusia.exe
+C:\Users\Adrian\source\repos\Spoj\BFN1 - Zabawne Dodawanie Piotrusia\BFN1 - Zabawne Dodawanie Piotrusia\obj\Debug\BFN1 - Zabawne Dodawanie Piotrusia.pdb

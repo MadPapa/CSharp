@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Spoj\FCTRL3 - Dwie cyfry silni\FCTRL3 - Dwie cyfry silni\bin\Debug\FCTRL3 - Dwie cyfry silni.exe.config
+C:\Users\Adrian\source\repos\Spoj\FCTRL3 - Dwie cyfry silni\FCTRL3 - Dwie cyfry silni\bin\Debug\FCTRL3 - Dwie cyfry silni.exe
+C:\Users\Adrian\source\repos\Spoj\FCTRL3 - Dwie cyfry silni\FCTRL3 - Dwie cyfry silni\bin\Debug\FCTRL3 - Dwie cyfry silni.pdb
+C:\Users\Adrian\source\repos\Spoj\FCTRL3 - Dwie cyfry silni\FCTRL3 - Dwie cyfry silni\obj\Debug\FCTRL3 - Dwie cyfry silni.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Spoj\FCTRL3 - Dwie cyfry silni\FCTRL3 - Dwie cyfry silni\obj\Debug\FCTRL3 - Dwie cyfry silni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Spoj\FCTRL3 - Dwie cyfry silni\FCTRL3 - Dwie cyfry silni\obj\Debug\FCTRL3 - Dwie cyfry silni.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Spoj\FCTRL3 - Dwie cyfry silni\FCTRL3 - Dwie cyfry silni\obj\Debug\FCTRL3 - Dwie cyfry silni.exe
+C:\Users\Adrian\source\repos\Spoj\FCTRL3 - Dwie cyfry silni\FCTRL3 - Dwie cyfry silni\obj\Debug\FCTRL3 - Dwie cyfry silni.pdb

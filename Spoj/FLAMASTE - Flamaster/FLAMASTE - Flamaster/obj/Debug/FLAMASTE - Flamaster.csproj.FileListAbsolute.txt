@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\bin\Debug\FLAMASTE - Flamaster.exe.config
+C:\Users\Adrian\source\repos\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\bin\Debug\FLAMASTE - Flamaster.exe
+C:\Users\Adrian\source\repos\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\bin\Debug\FLAMASTE - Flamaster.pdb
+C:\Users\Adrian\source\repos\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\obj\Debug\FLAMASTE - Flamaster.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\obj\Debug\FLAMASTE - Flamaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\obj\Debug\FLAMASTE - Flamaster.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\obj\Debug\FLAMASTE - Flamaster.exe
+C:\Users\Adrian\source\repos\Spoj\FLAMASTE - Flamaster\FLAMASTE - Flamaster\obj\Debug\FLAMASTE - Flamaster.pdb

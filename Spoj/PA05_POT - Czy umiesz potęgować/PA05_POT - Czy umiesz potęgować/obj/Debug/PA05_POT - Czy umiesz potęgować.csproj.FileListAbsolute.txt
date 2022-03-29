@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Spoj\PA05_POT - Czy umiesz potęgować\PA05_POT - Czy umiesz potęgować\bin\Debug\PA05_POT - Czy umiesz potęgować.exe.config
+C:\Users\Adrian\source\repos\Spoj\PA05_POT - Czy umiesz potęgować\PA05_POT - Czy umiesz potęgować\bin\Debug\PA05_POT - Czy umiesz potęgować.exe
+C:\Users\Adrian\source\repos\Spoj\PA05_POT - Czy umiesz potęgować\PA05_POT - Czy umiesz potęgować\bin\Debug\PA05_POT - Czy umiesz potęgować.pdb
+C:\Users\Adrian\source\repos\Spoj\PA05_POT - Czy umiesz potęgować\PA05_POT - Czy umiesz potęgować\obj\Debug\PA05_POT - Czy umiesz potęgować.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Spoj\PA05_POT - Czy umiesz potęgować\PA05_POT - Czy umiesz potęgować\obj\Debug\PA05_POT - Czy umiesz potęgować.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Spoj\PA05_POT - Czy umiesz potęgować\PA05_POT - Czy umiesz potęgować\obj\Debug\PA05_POT - Czy umiesz potęgować.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Spoj\PA05_POT - Czy umiesz potęgować\PA05_POT - Czy umiesz potęgować\obj\Debug\PA05_POT - Czy umiesz potęgować.exe
+C:\Users\Adrian\source\repos\Spoj\PA05_POT - Czy umiesz potęgować\PA05_POT - Czy umiesz potęgować\obj\Debug\PA05_POT - Czy umiesz potęgować.pdb

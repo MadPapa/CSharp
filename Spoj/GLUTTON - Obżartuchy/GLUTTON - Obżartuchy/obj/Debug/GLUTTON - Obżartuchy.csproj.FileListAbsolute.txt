@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Spoj\GLUTTON - Obżartuchy\GLUTTON - Obżartuchy\bin\Debug\GLUTTON - Obżartuchy.exe.config
+C:\Users\Adrian\source\repos\Spoj\GLUTTON - Obżartuchy\GLUTTON - Obżartuchy\bin\Debug\GLUTTON - Obżartuchy.exe
+C:\Users\Adrian\source\repos\Spoj\GLUTTON - Obżartuchy\GLUTTON - Obżartuchy\bin\Debug\GLUTTON - Obżartuchy.pdb
+C:\Users\Adrian\source\repos\Spoj\GLUTTON - Obżartuchy\GLUTTON - Obżartuchy\obj\Debug\GLUTTON - Obżartuchy.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Spoj\GLUTTON - Obżartuchy\GLUTTON - Obżartuchy\obj\Debug\GLUTTON - Obżartuchy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Spoj\GLUTTON - Obżartuchy\GLUTTON - Obżartuchy\obj\Debug\GLUTTON - Obżartuchy.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Spoj\GLUTTON - Obżartuchy\GLUTTON - Obżartuchy\obj\Debug\GLUTTON - Obżartuchy.exe
+C:\Users\Adrian\source\repos\Spoj\GLUTTON - Obżartuchy\GLUTTON - Obżartuchy\obj\Debug\GLUTTON - Obżartuchy.pdb

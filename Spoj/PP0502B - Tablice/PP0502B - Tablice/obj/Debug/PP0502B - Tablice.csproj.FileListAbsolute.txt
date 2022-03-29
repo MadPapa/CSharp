@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Spoj\PP0502B - Tablice\PP0502B - Tablice\bin\Debug\PP0502B - Tablice.exe.config
+C:\Users\Adrian\source\repos\Spoj\PP0502B - Tablice\PP0502B - Tablice\bin\Debug\PP0502B - Tablice.exe
+C:\Users\Adrian\source\repos\Spoj\PP0502B - Tablice\PP0502B - Tablice\bin\Debug\PP0502B - Tablice.pdb
+C:\Users\Adrian\source\repos\Spoj\PP0502B - Tablice\PP0502B - Tablice\obj\Debug\PP0502B - Tablice.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Spoj\PP0502B - Tablice\PP0502B - Tablice\obj\Debug\PP0502B - Tablice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Spoj\PP0502B - Tablice\PP0502B - Tablice\obj\Debug\PP0502B - Tablice.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Spoj\PP0502B - Tablice\PP0502B - Tablice\obj\Debug\PP0502B - Tablice.exe
+C:\Users\Adrian\source\repos\Spoj\PP0502B - Tablice\PP0502B - Tablice\obj\Debug\PP0502B - Tablice.pdb

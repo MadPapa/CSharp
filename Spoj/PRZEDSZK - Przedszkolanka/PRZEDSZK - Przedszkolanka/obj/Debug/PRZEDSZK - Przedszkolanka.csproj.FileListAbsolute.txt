@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Spoj\PRZEDSZK - Przedszkolanka\PRZEDSZK - Przedszkolanka\bin\Debug\PRZEDSZK - Przedszkolanka.exe.config
+C:\Users\Adrian\source\repos\Spoj\PRZEDSZK - Przedszkolanka\PRZEDSZK - Przedszkolanka\bin\Debug\PRZEDSZK - Przedszkolanka.exe
+C:\Users\Adrian\source\repos\Spoj\PRZEDSZK - Przedszkolanka\PRZEDSZK - Przedszkolanka\bin\Debug\PRZEDSZK - Przedszkolanka.pdb
+C:\Users\Adrian\source\repos\Spoj\PRZEDSZK - Przedszkolanka\PRZEDSZK - Przedszkolanka\obj\Debug\PRZEDSZK - Przedszkolanka.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Spoj\PRZEDSZK - Przedszkolanka\PRZEDSZK - Przedszkolanka\obj\Debug\PRZEDSZK - Przedszkolanka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Spoj\PRZEDSZK - Przedszkolanka\PRZEDSZK - Przedszkolanka\obj\Debug\PRZEDSZK - Przedszkolanka.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Spoj\PRZEDSZK - Przedszkolanka\PRZEDSZK - Przedszkolanka\obj\Debug\PRZEDSZK - Przedszkolanka.exe
+C:\Users\Adrian\source\repos\Spoj\PRZEDSZK - Przedszkolanka\PRZEDSZK - Przedszkolanka\obj\Debug\PRZEDSZK - Przedszkolanka.pdb
