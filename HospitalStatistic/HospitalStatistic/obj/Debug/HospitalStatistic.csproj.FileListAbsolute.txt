@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\HospitalStatistic\HospitalStatistic\bin\Debug\HospitalStatistic.exe.config
+C:\Users\Adrian\source\repos\HospitalStatistic\HospitalStatistic\bin\Debug\HospitalStatistic.exe
+C:\Users\Adrian\source\repos\HospitalStatistic\HospitalStatistic\bin\Debug\HospitalStatistic.pdb
+C:\Users\Adrian\source\repos\HospitalStatistic\HospitalStatistic\obj\Debug\HospitalStatistic.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\HospitalStatistic\HospitalStatistic\obj\Debug\HospitalStatistic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\HospitalStatistic\HospitalStatistic\obj\Debug\HospitalStatistic.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\HospitalStatistic\HospitalStatistic\obj\Debug\HospitalStatistic.exe
+C:\Users\Adrian\source\repos\HospitalStatistic\HospitalStatistic\obj\Debug\HospitalStatistic.pdb
